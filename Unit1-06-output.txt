@@ -1,0 +1,11 @@
+The sum of all numbers is55
+No integers were found on this line.
+The sum of all numbers is-1
+The sum of all numbers is30
+The sum of all numbers is0
+No integers were found on this line.For input string: "Hello,"
+No integers were found on this line.For input string: "World!"
+The sum of all numbers is0
+No integers were found on this line.For input string: "Bob"
+The sum of all numbers is73
+The sum of all numbers is64
